@@ -1,0 +1,70 @@
+{
+  "page" : {
+    "product1" : [ {
+      "id" : "100.0",
+      "confDescription" : "20MB 1Day Data Bundle for N25",
+      "description" : "20MB 1Day N25",
+      "data" : "20MB",
+      "validity" : "1Day",
+      "pricing" : 25.0
+    }, {
+      "id" : "101.0",
+      "confDescription" : "25MB 1Day Data Bundle for N50",
+      "description" : "25MB 1Day N50",
+      "data" : "25MB",
+      "validity" : "1Day",
+      "pricing" : 50.0
+    }, {
+      "id" : "102.0",
+      "confDescription" : "50MB 7Days Data Bundle for N50",
+      "description" : "50MB 7Days N50",
+      "data" : "50MB",
+      "validity" : "7Days",
+      "pricing" : 50.0
+    } ],
+    "product2" : [ {
+      "id" : "103.0",
+      "confDescription" : "100MB 1Day Data Bundle for N100",
+      "description" : "100MB 1Day N100",
+      "data" : "100MB",
+      "validity" : "1Day",
+      "pricing" : 100.0
+    }, {
+      "id" : "104.0",
+      "confDescription" : "200MB 2Days Data Bundle for N200",
+      "description" : "200MB 2Days N200",
+      "data" : "200MB",
+      "validity" : "2Days",
+      "pricing" : 200.0
+    }, {
+      "id" : "105.0",
+      "confDescription" : "1GB 1Day Data Bundle for N300",
+      "description" : "1GB 1Day N300",
+      "data" : "1GB",
+      "validity" : "1Day",
+      "pricing" : 300.0
+    } ],
+    "product3" : [ {
+      "id" : "106.0",
+      "confDescription" : "350MB 7Days Data Bundle for N300",
+      "description" : "350MB 7Days N300",
+      "data" : "350MB",
+      "validity" : "7Days",
+      "pricing" : 300.0
+    }, {
+      "id" : "107.0",
+      "confDescription" : "2.5GB 2Days Data Bundle for N500",
+      "description" : "2.5GB 2Days N500",
+      "data" : "2.5GB",
+      "validity" : "2Days",
+      "pricing" : 500.0
+    }, {
+      "id" : "108.0",
+      "confDescription" : "750MB 14Days Data Bundle for N500",
+      "description" : "750MB 14Days N500",
+      "data" : "750MB",
+      "validity" : "14Days",
+      "pricing" : 500.0
+    } ]
+  }
+}
